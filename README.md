@@ -12,10 +12,3 @@
 
 * 相关项目
    https://github.com/onplus/shadowsocks-heroku
-
-* 实现参考 
-   - https://github.com/v2ray/v2ray-core
-   - https://github.com/wangyi2005/v2ray
-   - Heroku 
-      - https://devcenter.heroku.com/articles/container-registry-and-runtime
-      - https://devcenter.heroku.com/articles/build-docker-images-heroku-yml
